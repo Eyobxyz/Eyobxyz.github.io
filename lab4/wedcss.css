@@ -1,0 +1,49 @@
+.container3{
+    display: flex;
+}
+.container4{
+    flex: 1;
+    padding: 1rem;
+}
+.container5{
+    flex: 1;
+    padding: 1rem;
+}
+.starcolor {
+     color: red;
+}
+#titlebar {
+    font-size: 2.5vw;
+    font-style: bold;
+}
+.container{
+    background-color: aqua; 
+    width: 100%;
+    padding: 10px;
+}
+table { 
+    border-collapse: collapse; 
+} 
+th, td { 
+    width:150px; 
+    text-align:left; 
+    padding:5px 
+}
+.cash1{
+    float: center;
+}
+.container6{
+    background-color: aqua; 
+    width: 100%;
+    padding: 10px;
+    float: center;
+    text-align: center;
+    
+
+    
+
+
+}
+    
+
+

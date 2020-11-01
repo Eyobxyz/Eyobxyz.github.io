@@ -1,0 +1,49 @@
+#title {
+  font-family: sans-serif;
+  font-size: 3vw;
+  font-weight: bold;
+  text-align: left;
+  color: #85C1E9;
+  
+}
+ol.fontstyle{
+  list-style-type: decimal;
+  color: #ECF0F1;
+  
+}
+p.fontcolor{
+   color: #85C1E9;
+   font-size: 2vw; 
+}
+p.description {
+  color: #ECF0F1;  
+}
+#moviecolor{
+    color: #ECF0F1;
+}
+ul.list{
+   color: #ECF0F1;
+ } 
+
+#italic{
+   font-style: italic;
+   color: #ECF0F1;   
+ } 
+ a.linkcolor{
+   color: #E74C3C;
+   font-size: 0.8vw; 
+ }
+body{
+  background-color: #424949;
+ 
+}
+div.container{
+    display: inline-block;
+    vertical-align: left;
+    color: #ECF0F1;
+    
+}
+#titlecolor{
+  color: yellow;
+}
+
